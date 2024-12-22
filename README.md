@@ -1,4 +1,6 @@
-# JKFLIPFLOP-USING-IF-ELSE
+### NAME: PRIYAN
+### REG NO: 24000051
+### EXP NO 7: JKFLIPFLOP USING IF ELSE
 
 **AIM:** 
 
@@ -33,16 +35,39 @@ By using three variable K-Map, we can get the simplified expression for next sta
 The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=JQ(t)′+K′Q(t)Q(t+1)=JQ(t)′+K′Q(t)
 
 **Procedure**
+1.Launch Quartus on your computer and create a new project:
+Go to File → New Project Wizard.
 
-/* write all the steps invloved */
+Specify the project name, directory, and top-level entity name (e.g., JK_FlipFlop).
 
-**PROGRAM**
+Create the JK Flip-Flop Circuit and implement the JK Flip-Flop by writing VHDL/Verilog code.
+Go to File → New → Select Verilog File.
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+Compile the Project
+Click on Processing → Start Compilation.
 
-**RTL LOGIC FOR FLIPFLOPS**
+Fix any syntax or schematic errors if present.
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+Simulate the Circuit:
+Go to Tools → University Program VWF.
 
-**RESULTS**
+Define the inputs for J, K, and CLK in the waveform editor.
+
+Run the simulation and observe the waveforms.
+
+Verify the Results.
+Compare the simulated results with the truth table for a JK Flip-Flop.
+
+
+### PROGRAM:
+
+![Screenshot 2024-12-12 104822](https://github.com/user-attachments/assets/ef4849e7-0b60-4ff3-a964-f77a714f44ad)
+
+### RTL LOGIC FOR FLIPFLOPS:
+![Screenshot 2024-12-12 103256](https://github.com/user-attachments/assets/0be35d9a-d85e-49a6-b734-7e8e7b5832ba)
+
+### TIMING DIGRAMS FOR FLIP FLOPS:
+![Screenshot 2024-12-12 104758](https://github.com/user-attachments/assets/6938f8e1-dbd5-4230-8ac3-660155e6a476)
+
+### RESULTS:
+Designed and verified the implimentation of JK flipflop circuit and truthtable in quartus ii using verilog programming successfully.
