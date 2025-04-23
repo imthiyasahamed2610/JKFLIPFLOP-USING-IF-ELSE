@@ -1,5 +1,5 @@
-### NAME: PRIYAN
-### REG NO: 24000051
+### NAME: imthiyas ahamed
+### REG NO: 212224901087
 ### EXP NO 5:IMPLEMENTATION OF JKFLIPFLOP 
 
 **AIM:** 
