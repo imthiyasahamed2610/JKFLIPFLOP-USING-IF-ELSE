@@ -1,5 +1,7 @@
- NAME: imthiyas aham 
+ NAME: imthiyas ahamed 
+ 
  REG NO: 21222490108
+ 
  EXP NO 5:IMPLEMENTATION OF JKFLIPFLOP 
 
 **AIM:** 
